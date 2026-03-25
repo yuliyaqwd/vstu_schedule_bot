@@ -1,5 +1,3 @@
-TELEGRAM_TOKEN = "telegram_token"
-
 VK_TOKEN = "vk_token"
 VK_GROUP_ID = 123456789
 
